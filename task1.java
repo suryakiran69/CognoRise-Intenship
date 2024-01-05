@@ -14,7 +14,7 @@ class task{
             }
             catch(Exception e){
                 System.out.println("Enter the correct data type: ");
-                sc.nextInt();
+                sc.nextLine();
                 i--;
                 continue;
             }
