@@ -2,7 +2,7 @@
 
 Hello Everyone.....
 
-I done a internship at Congno Rise Info tech in Java Development
+Completed a rewarding Java programming internship at Cognorise Infotech. Worked on impactful projects, tackled real-world challenges, and enhanced my coding skills. Grateful for the experience and excited to apply these skills in future endeavors!
 
 Task 1: Number Gussing Game.
 
